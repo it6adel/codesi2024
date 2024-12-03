@@ -1,0 +1,19 @@
+Import Studio.h;
+int A__;
+int X_;
+int YasdadadsddddddddddddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaAAAAAAAA ;
+float Arr[10];
+const PI;
+
+begin
+    PI = 3;
+    A = 10;
+    X = 15;
+    Arr[0] = 10;
+    if (X > 0) 
+    { 
+
+        Y = X+20;
+
+    }
+end
